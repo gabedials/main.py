@@ -8,9 +8,9 @@ git push -u origin master
 # Gabe Dials
 # Naruto Trvia Game
 
-print("Hello, welcome to Naruto Trivia Game")
-ninjaName = input("What is your name? ")
-print("Your ninja name is", ninjaName)
-print("QUESTION 1")
-print("How many tailed beast are there, nine or ten?")
-print(9+1)
+print("Hello, welcome to Naruto Trivia Game")</br>
+ninjaName = input("What is your name? ")</br>
+print("Your ninja name is", ninjaName)</br>
+print("QUESTION 1")</br>
+print("How many tailed beast are there, nine or ten?")</br>
+print(9+1)</br>
